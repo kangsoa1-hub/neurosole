@@ -1,0 +1,15 @@
+{
+  "version": "6.9",
+  "hitCount": 0,
+  "request": {
+    "queryString": "TITLE:\"Efficacy\" AND TITLE:\"dual-task\" AND TITLE:\"stroke\" AND FIRST_PDATE:[2024-01-01 TO 2024-12-31]",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 3,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": []
+  }
+}

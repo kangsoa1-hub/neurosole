@@ -1,0 +1,361 @@
+{
+  "version": "6.9",
+  "hitCount": 2,
+  "request": {
+    "queryString": "TITLE:\"INCOG 2.0\" AND TITLE:\"Executive\"",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 3,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "38529908",
+        "source": "MED",
+        "pmid": "38529908",
+        "doi": "10.1097/htr.0000000000000906",
+        "title": "INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury, Part III: Executive Functions: Erratum.",
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "39",
+          "journalIssueId": 3745428,
+          "dateOfPublication": "2024 Mar-Apr 01",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "J Head Trauma Rehabil",
+            "title": "The Journal of head trauma rehabilitation",
+            "essn": "1550-509X",
+            "issn": "0885-9701",
+            "isoabbreviation": "J Head Trauma Rehabil",
+            "nlmid": "8702552"
+          },
+          "printPublicationDate": "2024-03-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "159",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Published Erratum",
+            "Journal Article"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Unpaywall",
+              "url": "https://journals.lww.com/headtraumarehab/fulltext/2024/03000/incog_2_0_guidelines_for_cognitive_rehabilitation.9.aspx"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/HTR.0000000000000906"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "36594859",
+              "reference": "J Head Trauma Rehabil. 2023 Jan-Feb 01;38(1):52-64. doi: 10.1097/HTR.0000000000000834.",
+              "type": "Erratum for",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2024-03-27",
+        "dateOfCreation": "2024-03-26",
+        "dateOfRevision": "2025-06-03",
+        "electronicPublicationDate": "2024-03-18",
+        "firstPublicationDate": "2024-03-18",
+        "firstIndexDate": "2024-03-27",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "36594859",
+        "source": "MED",
+        "pmid": "36594859",
+        "doi": "10.1097/htr.0000000000000834",
+        "title": "INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury, Part III: Executive Functions.",
+        "authorString": "Jeffay E, Ponsford J, Harnett A, Janzen S, Patsakos E, Douglas J, Kennedy M, Kua A, Teasell R, Welch-West P, Bayley M, Green R.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Jeffay E",
+              "lastName": "Jeffay",
+              "firstName": "Eliyas",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1763-9834"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "KITE Research Institute, Toronto Rehabilitation Institute-University Health Network, Toronto, Ontario, Canada (Drs Jeffay, Bayley, and Green and Mss Patsakos and Kua); Turner Institute for Brain and Mental Health, School of Psychological Sciences, Monash University, Melbourne, Australia and Monash-Epworth Rehabilitation Research Centre, Epworth Healthcare, Melbourne, Australia (Dr Ponsford); Lawson Health Research Institute, Parkwood Institute, London, Ontario, Canada (Mss Harnett and Janzen); Living With Disability Research Centre, La Trobe University, Melbourne, Australia, and Summer Foundation, Melbourne, Australia (Dr Douglas); Communication Sciences and Disorders, Chapman University, Irvine, California (Dr Kennedy); Schulich School of Medicine, University of Western Ontario, St Joseph's Health Care, London, Ontario, Canada (Dr Teasell); Parkwood Institute, St Joseph's Health Care, London, Ontario, Canada, and School of Communication Sciences and Disorders, University of Western Ontario, London, Ontario, Canada (Ms Welch-West); and Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada (Drs Bayley and Green)."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ponsford J",
+              "lastName": "Ponsford",
+              "firstName": "Jennie",
+              "initials": "J"
+            },
+            {
+              "fullName": "Harnett A",
+              "lastName": "Harnett",
+              "firstName": "Amber",
+              "initials": "A"
+            },
+            {
+              "fullName": "Janzen S",
+              "lastName": "Janzen",
+              "firstName": "Shannon",
+              "initials": "S"
+            },
+            {
+              "fullName": "Patsakos E",
+              "lastName": "Patsakos",
+              "firstName": "Eleni",
+              "initials": "E"
+            },
+            {
+              "fullName": "Douglas J",
+              "lastName": "Douglas",
+              "firstName": "Jacinta",
+              "initials": "J"
+            },
+            {
+              "fullName": "Kennedy M",
+              "lastName": "Kennedy",
+              "firstName": "Mary",
+              "initials": "M"
+            },
+            {
+              "fullName": "Kua A",
+              "lastName": "Kua",
+              "firstName": "Ailene",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2602-9058"
+              }
+            },
+            {
+              "fullName": "Teasell R",
+              "lastName": "Teasell",
+              "firstName": "Robert",
+              "initials": "R"
+            },
+            {
+              "fullName": "Welch-West P",
+              "lastName": "Welch-West",
+              "firstName": "Penny",
+              "initials": "P"
+            },
+            {
+              "fullName": "Bayley M",
+              "lastName": "Bayley",
+              "firstName": "Mark",
+              "initials": "M"
+            },
+            {
+              "fullName": "Green R",
+              "lastName": "Green",
+              "firstName": "Robin",
+              "initials": "R"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1763-9834"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2602-9058"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "38",
+          "journalIssueId": 3481907,
+          "dateOfPublication": "2023 Jan-Feb 01",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2023,
+          "journal": {
+            "medlineAbbreviation": "J Head Trauma Rehabil",
+            "title": "The Journal of head trauma rehabilitation",
+            "essn": "1550-509X",
+            "issn": "0885-9701",
+            "isoabbreviation": "J Head Trauma Rehabil",
+            "nlmid": "8702552"
+          },
+          "printPublicationDate": "2023-01-01"
+        },
+        "pubYear": "2023",
+        "pageInfo": "52-64",
+        "abstractText": "<h4>Introduction</h4>Moderate-to-severe traumatic brain injury (MS-TBI) causes debilitating and enduring impairments of executive functioning and self-awareness, which clinicians often find challenging to address. Here, we provide an update to the INCOG 2014 guidelines for the clinical management of these impairments.<h4>Methods</h4>An expert panel of clinicians/researchers (known as INCOG) reviewed evidence published from 2014 and developed updated recommendations for the management of executive functioning and self-awareness post-MS-TBI, as well as a decision-making algorithm, and an audit tool for review of clinical practice.<h4>Results</h4>A total of 8 recommendations are provided regarding executive functioning and self-awareness. Since INCOG 2014, 4 new recommendations were made and 4 were modified and updated from previous recommendations. Six recommendations are based on level A evidence, and 2 are based on level C. Recommendations retained from the previous guidelines and updated, where new evidence was available, focus on enhancement of self-awareness (eg, feedback to increase self-monitoring; training with video-feedback), meta-cognitive strategy instruction (eg, goal management training), enhancement of reasoning skills, and group-based treatments. New recommendations addressing music therapy, virtual therapy, telerehabilitation-delivered metacognitive strategies, and caution regarding other group-based telerehabilitation (due to a lack of evidence) have been made.<h4>Conclusions</h4>Effective management of impairments in executive functioning can increase the success and well-being of individuals with MS-TBI in their day-to-day lives. These guidelines provide management recommendations based on the latest evidence, with support for their implementation, and encourage researchers to explore and validate additional factors such as predictors of treatment response.",
+        "affiliation": "KITE Research Institute, Toronto Rehabilitation Institute-University Health Network, Toronto, Ontario, Canada (Drs Jeffay, Bayley, and Green and Mss Patsakos and Kua); Turner Institute for Brain and Mental Health, School of Psychological Sciences, Monash University, Melbourne, Australia and Monash-Epworth Rehabilitation Research Centre, Epworth Healthcare, Melbourne, Australia (Dr Ponsford); Lawson Health Research Institute, Parkwood Institute, London, Ontario, Canada (Mss Harnett and Janzen); Living With Disability Research Centre, La Trobe University, Melbourne, Australia, and Summer Foundation, Melbourne, Australia (Dr Douglas); Communication Sciences and Disorders, Chapman University, Irvine, California (Dr Kennedy); Schulich School of Medicine, University of Western Ontario, St Joseph's Health Care, London, Ontario, Canada (Dr Teasell); Parkwood Institute, St Joseph's Health Care, London, Ontario, Canada, and School of Communication Sciences and Disorders, University of Western Ontario, London, Ontario, Canada (Ms Welch-West); and Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada (Drs Bayley and Green).",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Brain Injuries",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "RH",
+                    "qualifierName": "rehabilitation"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Problem Solving"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Executive Function"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Brain Injuries, Traumatic",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cognitive Training"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/HTR.0000000000000834"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "38529908",
+              "reference": "J Head Trauma Rehabil. 2024 Mar-Apr 01;39(2):159. doi: 10.1097/HTR.0000000000000906.",
+              "type": "Erratum in",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 54,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2023-01-05",
+        "dateOfCreation": "2023-01-03",
+        "dateOfRevision": "2025-06-03",
+        "firstPublicationDate": "2023-01-01",
+        "firstIndexDate": "2023-01-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "version": "6.9",
+  "hitCount": 2,
+  "request": {
+    "queryString": "TITLE:\"Cognitive rehabilitation for memory deficits after stroke\"",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 3,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "27581994",
+        "source": "MED",
+        "pmid": "27581994",
+        "pmcid": "PMC6457594",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6457594"
+          ]
+        },
+        "doi": "10.1002/14651858.cd002293.pub3",
+        "title": "Cognitive rehabilitation for memory deficits after stroke.",
+        "authorString": "das Nair R, Cogger H, Worthington E, Lincoln NB.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "das Nair R",
+              "lastName": "das Nair",
+              "firstName": "Roshan",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8143-7893"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Rehabilitation and Ageing, University of Nottingham, B98, B Floor Medical School, Queen's Medical Centre, Nottingham, UK, NG7 2UH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cogger H",
+              "lastName": "Cogger",
+              "firstName": "Heather",
+              "initials": "H"
+            },
+            {
+              "fullName": "Worthington E",
+              "lastName": "Worthington",
+              "firstName": "Esme",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1101-3419"
+              }
+            },
+            {
+              "fullName": "Lincoln NB",
+              "lastName": "Lincoln",
+              "firstName": "Nadina B",
+              "initials": "NB"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8143-7893"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8155-2277"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1101-3419"
+            }
+          ]
+        },
+        "journalInfo": {
+          "volume": "9",
+          "journalIssueId": 2445538,
+          "dateOfPublication": "2016 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2016,
+          "journal": {
+            "medlineAbbreviation": "Cochrane Database Syst Rev",
+            "title": "The Cochrane database of systematic reviews",
+            "essn": "1469-493X",
+            "issn": "1469-493X",
+            "nlmid": "100909747",
+            "isoabbreviation": "Cochrane Database Syst Rev"
+          },
+          "printPublicationDate": "2016-09-01"
+        },
+        "pubYear": "2016",
+        "pageInfo": "CD002293",
+        "abstractText": "<h4>Background</h4>Memory problems are a common cognitive complaint following stroke and can potentially affect ability to complete functional activities. Cognitive rehabilitation programmes either attempt to retrain lost or poor memory functions, or teach patients strategies to cope with them.Some studies have reported positive results of cognitive rehabilitation for memory problems, but the results obtained from previous systematic reviews have been less positive and they have reported inconclusive evidence. This is an update of a Cochrane review first published in 2000 and most recently updated in 2007.<h4>Objectives</h4>To determine whether participants who have received cognitive rehabilitation for memory problems following a stroke have better outcomes than those given no treatment or a placebo control.The outcomes of interest were subjective and objective assessments of memory function, functional ability, mood, and quality of life. We considered the immediate and long-term outcomes of memory rehabilitation.<h4>Search methods</h4>We used a comprehensive electronic search strategy to identify controlled studies indexed in the Cochrane Stroke Group Trials Register (last searched 19 May 2016) and in the Cochrane Central Register of Controlled Trials (CENTRAL2016, Issue 5), MEDLINE (2005 to 7 March 2016), EMBASE 2005 to 7 March 2016), CINAHL (2005 to 5 February 2016), AMED (2005 to 7 March 2016), PsycINFO (2005 to 7 March 2016), and nine other databases and registries. Start dates for the electronic databases coincided with the last search for the previous review. We handsearched reference lists of primary studies meeting the inclusion criteria and review articles to identify further eligible studies.<h4>Selection criteria</h4>We selected randomised controlled trials in which cognitive rehabilitation for memory problems was compared to a control condition. We included studies where more than 75% of the participants had experienced a stroke, or if separate data were available from those with stroke in mixed aetiology studies. Two review authors independently selected trials for inclusion, which was then confirmed through group discussion.<h4>Data collection and analysis</h4>We assessed study risk of bias and extracted data. We contacted the investigators of primary studies for further information where required. We conducted data analysis and synthesis in accordance with the Cochrane Handbook for Systematic Reviews of Interventions. We performed a 'best evidence' synthesis based on the risk of bias of the primary studies included. Where there were sufficient numbers of similar outcomes, we calculated and reported standardised mean differences (SMD) using meta-analysis.<h4>Main results</h4>We included 13 trials involving 514 participants. There was a significant effect of treatment on subjective reports of memory in the short term (standard mean difference (SMD) 0.36, 95% confidence interval (CI) 0.08 to 0.64, P = 0.01, moderate quality of evidence), but not the long term (SMD 0.31, 95% CI -0.02 to 0.64, P = 0.06, low quality of evidence). The SMD for the subjective reports of memory had small to moderate effect sizes.The results do not show any significant effect of memory rehabilitation on performance in objective memory tests, mood, functional abilities, or quality of life.No information was available on adverse events.<h4>Authors' conclusions</h4>Participants who received cognitive rehabilitation for memory problems following a stroke reported benefits from the intervention on subjective measures of memory in the short term (i.e. the first assessment point after the intervention, which was a minimum of four weeks). This effect was not, however, observed in the longer term (i.e. the second assessment point after the intervention, which was a minimum of three months). There was, therefore, limited evidence to support or refute the effectiveness of memory rehabilitation. The evidence was limited due to the poor quality of reporting in many studies, lack of consistency in the choice of outcome measures, and small sample sizes. There is a need for more robust, well-designed, adequately powered, and better-reported trials of memory rehabilitation using common standardised outcome measures.",
+        "affiliation": "Division of Rehabilitation and Ageing, University of Nottingham, B98, B Floor Medical School, Queen's Medical Centre, Nottingham, UK, NG7 2UH.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "systematic-review",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Chief Scientist Office",
+              "acronym": "CSO_",
+              "grantId": "ETM/417",
+              "orderIn": 0
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1002/14651858.CD002293.pub3"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC6457594"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC6457594?pdf=render"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1002/14651858.cd002293.pub3"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 92,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2016-09-02",
+        "dateOfRevision": "2025-05-30",
+        "electronicPublicationDate": "2016-09-01",
+        "firstPublicationDate": "2016-09-01",
+        "firstIndexDate": "2016-09-03",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "28577820",
+        "source": "MED",
+        "pmid": "28577820",
+        "doi": "10.1016/j.ijnurstu.2017.02.011",
+        "title": "Cognitive rehabilitation for memory deficits after stroke: A Cochrane review summary.",
+        "authorString": "Lockwood C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Lockwood C",
+              "lastName": "Lockwood",
+              "firstName": "Craig",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cochrane Nursing Care, The University of Adelaide, Australia."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "journalInfo": {
+          "volume": "76",
+          "journalIssueId": 2622542,
+          "dateOfPublication": "2017 Nov",
+          "monthOfPublication": 11,
+          "yearOfPublication": 2017,
+          "journal": {
+            "medlineAbbreviation": "Int J Nurs Stud",
+            "title": "International journal of nursing studies",
+            "essn": "1873-491X",
+            "issn": "0020-7489",
+            "nlmid": "0400675",
+            "isoabbreviation": "Int J Nurs Stud"
+          },
+          "printPublicationDate": "2017-11-01"
+        },
+        "pubYear": "2017",
+        "pageInfo": "131-132",
+        "affiliation": "Cochrane Nursing Care, The University of Adelaide, Australia.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Memory Disorders",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "RH",
+                    "qualifierName": "rehabilitation"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cognition",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Stroke",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Stroke Rehabilitation"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.ijnurstu.2017.02.011"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 3,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2019-03-01",
+        "dateOfCreation": "2017-06-05",
+        "dateOfRevision": "2019-03-01",
+        "electronicPublicationDate": "2017-02-10",
+        "firstPublicationDate": "2017-02-10",
+        "firstIndexDate": "2017-06-05",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2120 @@
+{
+  "version": "6.9",
+  "hitCount": 5,
+  "nextCursorMark": "AoIIPw0tRigzODgyNTg2Mg==",
+  "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Dementia+And+Physical+Activity%22&cursorMark=AoIIPw0tRigzODgyNTg2Mg%3D%3D&resultType=core&pageSize=3&format=json",
+  "request": {
+    "queryString": "TITLE:\"Dementia And Physical Activity\"",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 3,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "39852624",
+        "source": "MED",
+        "pmid": "39852624",
+        "pmcid": "PMC11767641",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11767641"
+          ]
+        },
+        "doi": "10.3390/nursrep15010002",
+        "title": "<i>'Changing the Focus'</i>: Co-Design of a Novel Approach for Engaging People with Dementia in Physical Activity.",
+        "authorString": "Meyer C, Lee DA, Callisaya M, Taylor ME, Lawler K, Levinger P, Hunter S, Mackey DC, Burton E, Brusco N, Haines T, Ekegren CL, Crabtree A, Hill KD.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Meyer C",
+              "lastName": "Meyer",
+              "firstName": "Claudia",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Bolton Clarke Research Institute, Forest Hill, VIC 3131, Australia."
+                  },
+                  {
+                    "affiliation": "Rehabilitation, Ageing and Independent Living (RAIL) Research Centre, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "College of Nursing and Health Sciences, Flinders University, Adelaide, SA 5000, Australia."
+                  },
+                  {
+                    "affiliation": "Centre for Health Communication and Participation, La Trobe University, Bundoora, VIC 3083, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lee DA",
+              "lastName": "Lee",
+              "firstName": "Den-Ching A",
+              "initials": "DA",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2693-8606"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Rehabilitation, Ageing and Independent Living (RAIL) Research Centre, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Callisaya M",
+              "lastName": "Callisaya",
+              "firstName": "Michele",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2122-1622"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "Peninsula Clinical School, Central Clinical School, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "Menzies Institute for Medical Research, University of Tasmania, Hobart, TAS 7005, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Taylor ME",
+              "lastName": "Taylor",
+              "firstName": "Morag E",
+              "initials": "ME",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4436-862X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Falls, Balance and Injury Research Centre, Neuroscience Research Australia, Randwick, NSW 2031, Australia."
+                  },
+                  {
+                    "affiliation": "Physiotherapy, School of Health Sciences, Faculty of Medicine and Health, UNSW Sydney, Sydney, NSW 2033, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lawler K",
+              "lastName": "Lawler",
+              "firstName": "Katherine",
+              "initials": "K",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1484-1113"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Allied Health, Human Services and Sport, La Trobe University, Bundoora, VIC 3083, Australia."
+                  },
+                  {
+                    "affiliation": "Wicking Dementia Research and Education Centre, College of Health and Medicine, University of Tasmania, Hobart, TAS 7000, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Levinger P",
+              "lastName": "Levinger",
+              "firstName": "Pazit",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6660-9183"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "National Ageing Research Institute, Parkville, VIC 3052, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hunter S",
+              "lastName": "Hunter",
+              "firstName": "Susan",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Physical Therapy, University of Western Ontario, London, ON N6A 0E5, Canada."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Mackey DC",
+              "lastName": "Mackey",
+              "firstName": "Dawn C",
+              "initials": "DC",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, BC V5A 1S6, Canada."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Burton E",
+              "lastName": "Burton",
+              "firstName": "Elissa",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6470-8305"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Curtin School of Allied Health, Faculty of Health Sciences, Curtin University, Perth, WA 6000, Australia."
+                  },
+                  {
+                    "affiliation": "enAble Institute, Faculty of Health Sciences, Curtin University, Perth, WA 6000, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Brusco N",
+              "lastName": "Brusco",
+              "firstName": "Natasha",
+              "initials": "N",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-8825-5109"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Rehabilitation, Ageing and Independent Living (RAIL) Research Centre, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Haines T",
+              "lastName": "Haines",
+              "firstName": "Terry",
+              "initials": "T",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3150-6154"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "School of Primary and Allied Health Care, Monash University (Peninsula Campus), Frankston, VIC 3199, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ekegren CL",
+              "lastName": "Ekegren",
+              "firstName": "Christina L",
+              "initials": "CL",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7656-6209"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Rehabilitation, Ageing and Independent Living (RAIL) Research Centre, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Crabtree A",
+              "lastName": "Crabtree",
+              "firstName": "Amelia",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2104-8308"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Aged & Rehabilitation Division, Monash Health, Clayton, VIC 3168, Australia."
+                  },
+                  {
+                    "affiliation": "School of Clinical Sciences at Monash Health, Faculty of Medicine, Nursing and Health Sciences, Monash University, Clayton, VIC 3168, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hill KD",
+              "lastName": "Hill",
+              "firstName": "Keith D",
+              "initials": "KD",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2191-0308"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Rehabilitation, Ageing and Independent Living (RAIL) Research Centre, Monash University, Frankston, VIC 3199, Australia."
+                  },
+                  {
+                    "affiliation": "National Centre for Healthy Ageing (NCHA), Monash University (Peninsula Campus) and Peninsula Health, Frankston, VIC 3199, Australia."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6470-8305"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6660-9183"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1484-1113"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2104-8308"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2191-0308"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4436-862X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7656-6209"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-8825-5109"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2122-1622"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2693-8606"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3150-6154"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "15",
+          "journalIssueId": 3891388,
+          "dateOfPublication": "2024 Dec",
+          "monthOfPublication": 12,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "Nurs Rep",
+            "title": "Nursing reports (Pavia, Italy)",
+            "essn": "2039-4403",
+            "issn": "2039-439X",
+            "isoabbreviation": "Nurs Rep",
+            "nlmid": "101592662"
+          },
+          "printPublicationDate": "2024-12-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "2",
+        "abstractText": "<h4>Background</h4>Promoting physical activity among people living with dementia is critical to maximise physical, cognitive and social benefits; yet the lack of knowledge, skills and confidence among health professionals, informal care partners and people with dementia deters participation. As the initial phase of a larger feasibility study, co-design was employed to develop a new model of community care, <i>'Changing the Focus',</i> to facilitate the physical activity participation of older people living with mild dementia.<h4>Methods</h4>Co-design methodology was utilised with nine stakeholders (with experience in referring to or providing physical activity programs and/or contributing to policy and program planning) over three workshops plus individual interviews with four care partners of people with dementia. Insights were gathered on the physical activity for people with mild dementia, referral pathways were explored and 'personas' were developed and refined. Materials and resources to support exercise providers and referrers to work effectively with people with mild dementia were finalised.<h4>Results</h4>Three 'personas' emerged from the co-design sessions, aligned with stages of behaviour change: (1) hesitant to engage; (2) preparing to engage; and (3) actively engaged. Referral pathway discussions identified challenges related to limited resources, limited knowledge, access constraints and individual factors. Opportunities were classified as using champions, streamlining processes, recognising triggers for disengagement, influencing beliefs and attitudes, and means of communication.<h4>Conclusion</h4>This study captured the views of physical activity referrers and providers and informal care partners in an inclusive and iterative manner. The use of co-design ensured a robust approach to facilitating participation in formal and informal physical activity options for people living with mild dementia. This study has provided the necessary framework from which to develop and test training and resources for the next stage of intervention (a feasibility trial) to improve physical activity participation for people with dementia.",
+        "affiliation": "Bolton Clarke Research Institute, Forest Hill, VIC 3131, Australia.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "National Centre for Healthy Ageing - Living Labs Program",
+              "grantId": "N/A",
+              "orderIn": 0
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Community",
+            "Nursing",
+            "Dementia",
+            "Physical Activity",
+            "Co-design"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3390/nursrep15010002"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11767641"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11767641?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2025-01-24",
+        "dateOfRevision": "2025-01-30",
+        "electronicPublicationDate": "2024-12-24",
+        "firstPublicationDate": "2024-12-24",
+        "firstIndexDate": "2025-01-25",
+        "fullTextReceivedDate": "2025-12-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "29769247",
+        "source": "MED",
+        "pmid": "29769247",
+        "pmcid": "PMC5953238",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5953238"
+          ]
+        },
+        "doi": "10.1136/bmj.k1675",
+        "title": "Dementia And Physical Activity (DAPA) trial of moderate to high intensity exercise training for people with dementia: randomised controlled trial.",
+        "authorString": "Lamb SE, Sheehan B, Atherton N, Nichols V, Collins H, Mistry D, Dosanjh S, Slowther AM, Khan I, Petrou S, Lall R, DAPA Trial Investigators.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Lamb SE",
+              "lastName": "Lamb",
+              "firstName": "Sarah E",
+              "initials": "SE",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4349-7195"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Centre for Rehabilitation Research and Centre for Statistics in Medicine, Nuffield Department of Orthopaedics Rheumatology & Musculoskeletal Sciences, Botnar Research Centre, University of Oxford, Oxford OX3 7LD, UK sarah.lamb@ndorms.ox.ac.uk."
+                  },
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sheehan B",
+              "lastName": "Sheehan",
+              "firstName": "Bart",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Coventry and Warwickshire Partnership Trust, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Atherton N",
+              "lastName": "Atherton",
+              "firstName": "Nicky",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Coventry and Warwickshire Partnership Trust, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Nichols V",
+              "lastName": "Nichols",
+              "firstName": "Vivien",
+              "initials": "V",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Collins H",
+              "lastName": "Collins",
+              "firstName": "Helen",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Oxford University Hospitals NHS Foundation Trust, John Radcliffe Hospital, Oxford, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Mistry D",
+              "lastName": "Mistry",
+              "firstName": "Dipesh",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Dosanjh S",
+              "lastName": "Dosanjh",
+              "firstName": "Sukhdeep",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Slowther AM",
+              "lastName": "Slowther",
+              "firstName": "Anne Marie",
+              "initials": "AM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Health Sciences, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Khan I",
+              "lastName": "Khan",
+              "firstName": "Iftekhar",
+              "initials": "I",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6041-8837"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Petrou S",
+              "lastName": "Petrou",
+              "firstName": "Stavros",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3121-6050"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lall R",
+              "lastName": "Lall",
+              "firstName": "Ranjit",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1737-2866"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "collectiveName": "DAPA Trial Investigators"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6041-8837"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8152-7610"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1721-7631"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4173-1438"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9775-361X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1737-2866"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3121-6050"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4349-7195"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4935-6588"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "volume": "361",
+          "journalIssueId": 2678403,
+          "dateOfPublication": "2018 May",
+          "monthOfPublication": 5,
+          "yearOfPublication": 2018,
+          "journal": {
+            "medlineAbbreviation": "BMJ",
+            "title": "BMJ (Clinical research ed.)",
+            "essn": "1756-1833",
+            "issn": "0959-8138",
+            "isoabbreviation": "BMJ",
+            "nlmid": "8900488"
+          },
+          "printPublicationDate": "2018-05-01"
+        },
+        "pubYear": "2018",
+        "pageInfo": "k1675",
+        "abstractText": "<h4>Objective</h4>To estimate the effect of a moderate to high intensity aerobic and strength exercise training programme on cognitive impairment and other outcomes in people with mild to moderate dementia.<h4>Design</h4>Multicentre, pragmatic, investigator masked, randomised controlled trial.<h4>Setting</h4>National Health Service primary care, community and memory services, dementia research registers, and voluntary sector providers in 15 English regions.<h4>Participants</h4>494 people with dementia: 329 were assigned to an aerobic and strength exercise programme and 165 were assigned to usual care. Random allocation was 2:1 in favour of the exercise arm.<h4>Interventions</h4>Usual care plus four months of supervised exercise and support for ongoing physical activity, or usual care only. Interventions were delivered in community gym facilities and NHS premises.<h4>Main outcome measures</h4>The primary outcome was score on the Alzheimer's disease assessment scale-cognitive subscale (ADAS-cog) at 12 months. Secondary outcomes included activities of daily living, neuropsychiatric symptoms, health related quality of life, and carer quality of life and burden. Physical fitness (including the six minute walk test) was measured in the exercise arm during the intervention.<h4>Results</h4>The average age of participants was 77 (SD 7.9) years and 301/494 (61%) were men. By 12 months the mean ADAS-cog score had increased to 25.2 (SD 12.3) in the exercise arm and 23.8 (SD 10.4) in the usual care arm (adjusted between group difference -1.4, 95% confidence interval -2.6 to -0.2, P=0.03). This indicates greater cognitive impairment in the exercise group, although the average difference is small and clinical relevance uncertain. No differences were found in secondary outcomes or preplanned subgroup analyses by dementia type (Alzheimer's disease or other), severity of cognitive impairment, sex, and mobility. Compliance with exercise was good. Over 65% of participants (214/329) attended more than three quarters of scheduled sessions. Six minute walking distance improved over six weeks (mean change 18.1 m, 95% confidence interval 11.6 m to 24.6 m).<h4>Conclusion</h4>A moderate to high intensity aerobic and strength exercise training programme does not slow cognitive impairment in people with mild to moderate dementia. The exercise training programme improved physical fitness, but there were no noticeable improvements in other clinical outcomes.<h4>Trial registration</h4>Current Controlled Trials ISRCTN10416500.",
+        "affiliation": "Centre for Rehabilitation Research and Centre for Statistics in Medicine, Nuffield Department of Orthopaedics Rheumatology & Musculoskeletal Sciences, Botnar Research Centre, University of Oxford, Oxford OX3 7LD, UK sarah.lamb@ndorms.ox.ac.uk.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Multicenter Study",
+            "Randomized Controlled Trial",
+            "Pragmatic Clinical Trial",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "acronym": "DH_",
+              "grantId": "09/80/04",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "G0501681",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "grantId": "NF-SI-0616-10103",
+              "orderIn": 0
+            },
+            {
+              "agency": "Economic and Social Research Council",
+              "grantId": "1499410",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "G0700452",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Dementia",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "RH",
+                    "qualifierName": "rehabilitation"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Exercise Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Activities of Daily Living"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cognition",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Physical Fitness",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Caregivers",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "England"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Male"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Resistance Training"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Unpaywall",
+              "url": "https://www.bmj.com/content/bmj/361/bmj.k1675.full.pdf"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1136/bmj.k1675"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5953238"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "30242407",
+              "reference": "Ann Intern Med. 2018 Sep 18;169(6):JC34. doi: 10.7326/ACPJC-2018-169-6-034.",
+              "type": "Comment in",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 271,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2018-12-11",
+        "dateOfCreation": "2018-05-18",
+        "dateOfRevision": "2026-01-27",
+        "electronicPublicationDate": "2018-05-16",
+        "firstPublicationDate": "2018-05-16",
+        "firstIndexDate": "2018-05-17",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "30206826",
+        "source": "MED",
+        "pmid": "30206826",
+        "pmcid": "PMC6533370",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6533370"
+          ]
+        },
+        "doi": "10.1007/s41669-018-0097-9",
+        "title": "Does Structured Exercise Improve Cognitive Impairment in People with Mild to Moderate Dementia? A Cost-Effectiveness Analysis from a Confirmatory Randomised Controlled Trial: The Dementia and Physical Activity (DAPA) Trial.",
+        "authorString": "Khan I, Petrou S, Khan K, Mistry D, Lall R, Sheehan B, Lamb S, DAPA Trial Group.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Khan I",
+              "lastName": "Khan",
+              "firstName": "Iftekhar",
+              "initials": "I",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6041-8837"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK. i.khan.2@warwick.ac.uk."
+                  },
+                  {
+                    "affiliation": "King's College London, University of London, London, UK. i.khan.2@warwick.ac.uk."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Petrou S",
+              "lastName": "Petrou",
+              "firstName": "Stavros",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Khan K",
+              "lastName": "Khan",
+              "firstName": "Kamran",
+              "initials": "K",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Mistry D",
+              "lastName": "Mistry",
+              "firstName": "Dipesh",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lall R",
+              "lastName": "Lall",
+              "firstName": "Ranjit",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sheehan B",
+              "lastName": "Sheehan",
+              "firstName": "Bart",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lamb S",
+              "lastName": "Lamb",
+              "firstName": "Sarah",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK."
+                  },
+                  {
+                    "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Centre for Statistics in Medicine, University of Oxford, Oxford, UK."
+                  },
+                  {
+                    "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Centre for Rehabilitation Research In Oxford, University of Oxford, Oxford, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "collectiveName": "DAPA Trial Group"
+            }
+          ]
+        },
+        "investigatorList": {
+          "investigator": [
+            {
+              "fullName": "Lamb S",
+              "lastName": "Lamb",
+              "firstName": "Sarah",
+              "initials": "S"
+            },
+            {
+              "fullName": "Sheehan B",
+              "lastName": "Sheehan",
+              "firstName": "Bart",
+              "initials": "B"
+            },
+            {
+              "fullName": "Mistry D",
+              "lastName": "Mistry",
+              "firstName": "Dipesh",
+              "initials": "D"
+            },
+            {
+              "fullName": "Lall R",
+              "lastName": "Lall",
+              "firstName": "Ranjit",
+              "initials": "R"
+            },
+            {
+              "fullName": "Khan I",
+              "lastName": "Khan",
+              "firstName": "Iftekhar",
+              "initials": "I"
+            },
+            {
+              "fullName": "Khan K",
+              "lastName": "Khan",
+              "firstName": "Kamran",
+              "initials": "K"
+            },
+            {
+              "fullName": "Petrou S",
+              "lastName": "Petrou",
+              "firstName": "Stavros",
+              "initials": "S"
+            },
+            {
+              "fullName": "Dosanjh S",
+              "lastName": "Dosanjh",
+              "firstName": "Sukhdeep",
+              "initials": "S"
+            },
+            {
+              "fullName": "Alleyne S",
+              "lastName": "Alleyne",
+              "firstName": "Sharisse",
+              "initials": "S"
+            },
+            {
+              "fullName": "Hennings S",
+              "lastName": "Hennings",
+              "firstName": "Susie",
+              "initials": "S"
+            },
+            {
+              "fullName": "Nichols V",
+              "lastName": "Nichols",
+              "firstName": "Vivien",
+              "initials": "V"
+            },
+            {
+              "fullName": "Finnegan S",
+              "lastName": "Finnegan",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Atherton N",
+              "lastName": "Atherton",
+              "firstName": "Nicky",
+              "initials": "N"
+            },
+            {
+              "fullName": "Brown D",
+              "lastName": "Brown",
+              "firstName": "Debbie",
+              "initials": "D"
+            },
+            {
+              "fullName": "Collins H",
+              "lastName": "Collins",
+              "firstName": "Helen",
+              "initials": "H"
+            },
+            {
+              "fullName": "Lawlor B",
+              "lastName": "Lawlor",
+              "firstName": "Brian",
+              "initials": "B"
+            },
+            {
+              "fullName": "Turner AC",
+              "lastName": "Turner",
+              "firstName": "Angela Clayton",
+              "initials": "AC"
+            },
+            {
+              "fullName": "Freeman J",
+              "lastName": "Freeman",
+              "firstName": "Jenny",
+              "initials": "J",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4072-9758"
+              }
+            },
+            {
+              "fullName": "Lamb S",
+              "lastName": "Lamb",
+              "firstName": "Sarah",
+              "initials": "S"
+            },
+            {
+              "fullName": "McCrone P",
+              "lastName": "McCrone",
+              "firstName": "Paul",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7001-4502"
+              }
+            },
+            {
+              "fullName": "Sheehan B",
+              "lastName": "Sheehan",
+              "firstName": "Bart",
+              "initials": "B"
+            },
+            {
+              "fullName": "Jones R",
+              "lastName": "Jones",
+              "firstName": "Roy",
+              "initials": "R"
+            },
+            {
+              "fullName": "Hughes J",
+              "lastName": "Hughes",
+              "firstName": "Julian",
+              "initials": "J"
+            },
+            {
+              "fullName": "Phillips P",
+              "lastName": "Phillips",
+              "firstName": "Patrick",
+              "initials": "P"
+            },
+            {
+              "fullName": "Mistry D",
+              "lastName": "Mistry",
+              "firstName": "Dipesh",
+              "initials": "D"
+            },
+            {
+              "fullName": "Atherton N",
+              "lastName": "Atherton",
+              "firstName": "N",
+              "initials": "N"
+            },
+            {
+              "fullName": "Bridgewater S",
+              "lastName": "Bridgewater",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Eyre E",
+              "lastName": "Eyre",
+              "firstName": "E",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4040-5921"
+              }
+            },
+            {
+              "fullName": "Finnegan S",
+              "lastName": "Finnegan",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Hall L",
+              "lastName": "Hall",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Hill L",
+              "lastName": "Hill",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Hall P",
+              "lastName": "Hall",
+              "firstName": "P",
+              "initials": "P"
+            },
+            {
+              "fullName": "Johnson H",
+              "lastName": "Johnson",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Kaur G",
+              "lastName": "Kaur",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Langdon L",
+              "lastName": "Langdon",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Lowe J",
+              "lastName": "Lowe",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Mathews S",
+              "lastName": "Mathews",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Millichap J",
+              "lastName": "Millichap",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Nussbaum J",
+              "lastName": "Nussbaum",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "On-Kar I",
+              "lastName": "On-Kar",
+              "firstName": "I",
+              "initials": "I"
+            },
+            {
+              "fullName": "Ritchie C",
+              "lastName": "Ritchie",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Russell V",
+              "lastName": "Russell",
+              "firstName": "V",
+              "initials": "V"
+            },
+            {
+              "fullName": "Scott G",
+              "lastName": "Scott",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Shore S",
+              "lastName": "Shore",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Slowther A",
+              "lastName": "Slowther",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Spanjers K",
+              "lastName": "Spanjers",
+              "firstName": "K",
+              "initials": "K"
+            },
+            {
+              "fullName": "Stonehewer L",
+              "lastName": "Stonehewer",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Thorogood M",
+              "lastName": "Thorogood",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Todd J",
+              "lastName": "Todd",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Ullah A",
+              "lastName": "Ullah",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Waters H",
+              "lastName": "Waters",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Woods L",
+              "lastName": "Woods",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Withers E",
+              "lastName": "Withers",
+              "firstName": "E",
+              "initials": "E"
+            },
+            {
+              "fullName": "Zeh P",
+              "lastName": "Zeh",
+              "firstName": "P",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1721-7631"
+              }
+            },
+            {
+              "fullName": "Bond A",
+              "lastName": "Bond",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Brown D",
+              "lastName": "Brown",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Byrne C",
+              "lastName": "Byrne",
+              "firstName": "C",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4935-6588"
+              }
+            },
+            {
+              "fullName": "McShane R",
+              "lastName": "McShane",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Richmond H",
+              "lastName": "Richmond",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Thomas N",
+              "lastName": "Thomas",
+              "firstName": "N",
+              "initials": "N"
+            },
+            {
+              "fullName": "Thompson J",
+              "lastName": "Thompson",
+              "firstName": "J",
+              "initials": "J",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9775-361X"
+              }
+            },
+            {
+              "fullName": "Dransfield C",
+              "lastName": "Dransfield",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Le Frenais F",
+              "lastName": "Le Frenais",
+              "firstName": "F",
+              "initials": "F"
+            },
+            {
+              "fullName": "Hall C",
+              "lastName": "Hall",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Rye O",
+              "lastName": "Rye",
+              "firstName": "O",
+              "initials": "O"
+            },
+            {
+              "fullName": "Carson R",
+              "lastName": "Carson",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Clarke M",
+              "lastName": "Clarke",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Eaton H",
+              "lastName": "Eaton",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Ellis H",
+              "lastName": "Ellis",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Farrand A",
+              "lastName": "Farrand",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Gardner S",
+              "lastName": "Gardner",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Harducas C",
+              "lastName": "Harducas",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Rigby L",
+              "lastName": "Rigby",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Wilson J",
+              "lastName": "Wilson",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Hill L",
+              "lastName": "Hill",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Johnson L",
+              "lastName": "Johnson",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Lord L",
+              "lastName": "Lord",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Johnson L",
+              "lastName": "Johnson",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Qassam T",
+              "lastName": "Qassam",
+              "firstName": "T",
+              "initials": "T"
+            },
+            {
+              "fullName": "Sadier S",
+              "lastName": "Sadier",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Shipman A",
+              "lastName": "Shipman",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "South L",
+              "lastName": "South",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Statham J",
+              "lastName": "Statham",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Tomkins J",
+              "lastName": "Tomkins",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Weaver D",
+              "lastName": "Weaver",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Coope B",
+              "lastName": "Coope",
+              "firstName": "B",
+              "initials": "B"
+            },
+            {
+              "fullName": "Craddock D",
+              "lastName": "Craddock",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Johal A",
+              "lastName": "Johal",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Lee J",
+              "lastName": "Lee",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Lindsay J",
+              "lastName": "Lindsay",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Tucker J",
+              "lastName": "Tucker",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Vanderputt R",
+              "lastName": "Vanderputt",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Cross V",
+              "lastName": "Cross",
+              "firstName": "V",
+              "initials": "V"
+            },
+            {
+              "fullName": "Glithens-Mather G",
+              "lastName": "Glithens-Mather",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Martin L",
+              "lastName": "Martin",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "O'Reilly C",
+              "lastName": "O'Reilly",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Rogers E",
+              "lastName": "Rogers",
+              "firstName": "E",
+              "initials": "E"
+            },
+            {
+              "fullName": "Sheridan R",
+              "lastName": "Sheridan",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Birtwell K",
+              "lastName": "Birtwell",
+              "firstName": "K",
+              "initials": "K"
+            },
+            {
+              "fullName": "Brooke J",
+              "lastName": "Brooke",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Davis A",
+              "lastName": "Davis",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Hinze C",
+              "lastName": "Hinze",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Hussain S",
+              "lastName": "Hussain",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Kennedy A",
+              "lastName": "Kennedy",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Mistry H",
+              "lastName": "Mistry",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Noble R",
+              "lastName": "Noble",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Norton R",
+              "lastName": "Norton",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Oughton E",
+              "lastName": "Oughton",
+              "firstName": "E",
+              "initials": "E"
+            },
+            {
+              "fullName": "Sherwin V",
+              "lastName": "Sherwin",
+              "firstName": "V",
+              "initials": "V"
+            },
+            {
+              "fullName": "Tinker P",
+              "lastName": "Tinker",
+              "firstName": "P",
+              "initials": "P"
+            },
+            {
+              "fullName": "Glancey D",
+              "lastName": "Glancey",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Karrin H",
+              "lastName": "Karrin",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Marudkar M",
+              "lastName": "Marudkar",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Borley G",
+              "lastName": "Borley",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Crisp T",
+              "lastName": "Crisp",
+              "firstName": "T",
+              "initials": "T"
+            },
+            {
+              "fullName": "Koranteng P",
+              "lastName": "Koranteng",
+              "firstName": "P",
+              "initials": "P"
+            },
+            {
+              "fullName": "Lovesy A",
+              "lastName": "Lovesy",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Vogel S",
+              "lastName": "Vogel",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Browne B",
+              "lastName": "Browne",
+              "firstName": "B",
+              "initials": "B"
+            },
+            {
+              "fullName": "Colbourn L",
+              "lastName": "Colbourn",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Feast A",
+              "lastName": "Feast",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Hanratty E",
+              "lastName": "Hanratty",
+              "firstName": "E",
+              "initials": "E"
+            },
+            {
+              "fullName": "Legerd R",
+              "lastName": "Legerd",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Niland-Smith R",
+              "lastName": "Niland-Smith",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Sullivan T",
+              "lastName": "Sullivan",
+              "firstName": "Theresa",
+              "initials": "T"
+            },
+            {
+              "fullName": "Sullivan T",
+              "lastName": "Sullivan",
+              "firstName": "Tony",
+              "initials": "T"
+            },
+            {
+              "fullName": "Streater A",
+              "lastName": "Streater",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "St Roas H",
+              "lastName": "St Roas",
+              "firstName": "H",
+              "initials": "H"
+            },
+            {
+              "fullName": "Anderton M",
+              "lastName": "Anderton",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Blake R",
+              "lastName": "Blake",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Brown K",
+              "lastName": "Brown",
+              "firstName": "K",
+              "initials": "K"
+            },
+            {
+              "fullName": "Marriott S",
+              "lastName": "Marriott",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Simpson S",
+              "lastName": "Simpson",
+              "firstName": "S",
+              "initials": "S"
+            },
+            {
+              "fullName": "Thornhill A",
+              "lastName": "Thornhill",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Colbourn L",
+              "lastName": "Colbourn",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Dawe F",
+              "lastName": "Dawe",
+              "firstName": "F",
+              "initials": "F"
+            },
+            {
+              "fullName": "Kuruvilla T",
+              "lastName": "Kuruvilla",
+              "firstName": "T",
+              "initials": "T"
+            },
+            {
+              "fullName": "Moore L",
+              "lastName": "Moore",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Niland-Smith R",
+              "lastName": "Niland-Smith",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Phillips M",
+              "lastName": "Phillips",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Riley G",
+              "lastName": "Riley",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Uthup A",
+              "lastName": "Uthup",
+              "firstName": "A",
+              "initials": "A"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6041-8837"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7001-4502"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8152-7610"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1721-7631"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4040-5921"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4072-9758"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4322-9695"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9775-361X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1737-2866"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2472-5754"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2564-7348"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3121-6050"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4349-7195"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4935-6588"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "3",
+          "journalIssueId": 2819891,
+          "dateOfPublication": "2019 Jun",
+          "monthOfPublication": 6,
+          "yearOfPublication": 2019,
+          "journal": {
+            "medlineAbbreviation": "Pharmacoecon Open",
+            "title": "PharmacoEconomics - open",
+            "essn": "2509-4254",
+            "issn": "2509-4262",
+            "isoabbreviation": "Pharmacoecon Open",
+            "nlmid": "101700780"
+          },
+          "printPublicationDate": "2019-06-01"
+        },
+        "pubYear": "2019",
+        "pageInfo": "215-227",
+        "abstractText": "<h4>Background</h4>Previous studies suggest that physical exercise could slow dementia progression. However, evidence for the cost effectiveness of structured exercise is conflicting and based on small trials.<h4>Objectives</h4>The objective of this study was to compare the cost effectiveness of a tailored, structured, moderate- to high-intensity exercise programme versus usual care in people with mild to moderate dementia.<h4>Methods</h4>An economic evaluation was conducted from the UK National Health Service and personal social services perspective, based on data from a large randomised controlled trial. The primary clinical outcome was the participant reported ADAS-Cog (Alzheimer's Disease Assessment Scale-Cognitive Subscale) at 12 months. Costs (£; 2014-2015 prices) were collected prospectively over a 12-month follow-up period. A bivariate regression of costs and quality-adjusted life-years (QALYs), with multiple imputation of missing data, was conducted with the view to estimating the incremental cost per QALY gained and the incremental net monetary benefit (INMB) associated with the exercise programme plus usual care versus usual care. Sensitivity analyses were undertaken to assess the impact of uncertainty surrounding aspects of the economic evaluation, and pre-specified subgroup analyses explored heterogeneity in the cost-effectiveness results.<h4>Results</h4>Participants (n = 494) were randomised to exercise plus usual care or usual care only. By 12 months the mean ADAS-Cog score had worsened slightly to 25.2 (standard deviation [SD] 12.3) in the exercise arm and 23.8 (SD 10.4) in the usual care: difference - 1.4, 95% confidence interval (CI) - 2.6 to - 0.2 (p = 0.03). The mean (standard error [SE]) costs over 12 months for experimental versus control was £5945 (US$7856) versus £4597 (US$6574), respectively; (difference: £1347 [$1926]; p = 0.0426). Mean (SE) QALY estimates were 0.787 (0.012) versus 0.826 (0.019), respectively (p = 0.090). The probability that the exercise programme is cost effective was < 1% across cost-effectiveness thresholds. INMBs ranged between -£2601 (US$3719) and £2158 (US$3086) at cost-effectiveness thresholds between £15,000 (US$21,450) and £30,000 (US$42,900) per QALY. The cost-effectiveness results remained robust to several sensitivity and subgroup analyses.<h4>Conclusions</h4>Building on the clinical results of the trial, which showed that the structured exercise programme evaluated does not slow cognitive impairment in people with mild to moderate dementia, this economic evaluation shows that the programme is not cost effective.",
+        "affiliation": "Warwick Clinical Trials Unit, Warwick Medical School, University of Warwick, Coventry, UK. i.khan.2@warwick.ac.uk.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "G0501681",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "grantId": "NF-SI-0616-10103",
+              "orderIn": 0
+            },
+            {
+              "agency": "Economic and Social Research Council",
+              "grantId": "1499410",
+              "orderIn": 0
+            },
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "G0700452",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Institute for Health Research (NIHR)",
+              "acronym": "DH_",
+              "grantId": "09/80/04",
+              "orderIn": 0
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Unpaywall",
+              "url": "https://link.springer.com/content/pdf/10.1007/s41669-018-0097-9.pdf"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1007/s41669-018-0097-9"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC6533370"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC6533370?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 13,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2018-09-13",
+        "dateOfRevision": "2025-05-30",
+        "firstPublicationDate": "2019-06-01",
+        "firstIndexDate": "2018-09-12",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}
